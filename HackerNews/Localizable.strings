@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  HackerNews
+
+  Created by Mihail Cristian Dumitru on 10/24/16.
+  Copyright © 2016 Null. All rights reserved.
+*/
+
+"kOpenInBrowser" = "Open in browser";
+"kCopy" = "Copy";
+"kShare" = "Share";
+"kRefresh" = "Refresh";
+"kInvalidLogin" = "Usernames can only contain letters, digits, dashes and underscores, and should be between 2 and 15 characters long. The password should be at least 8 characters long.";
+"kRegisterCapcha" = "The registration requires you to enter a capcha. Please register from the web.";
+"kAuthRequiredTitle" = "You need to log in";
+"kLoginButton" = "LOG IN";
+"kSignupButton" = "SIGN UP";
+"kConfirmLogout" = "Are you sure you want to log out?";
+"kYes" = "Yes";
+"kNo" = "No";
+"kDontHaveAccount" = "Don't have an account?";
+"kAlreadyHaveAccount" = "Already have an account?";
+"kUsernamePlaceholder" = "Username";
+"kPasswordPlaceholder" = "Password";
+"kForgotPassword" = "Forgot password?";
+"kPostStoryTitlePlaceholder" = "An interesting title";
+"kPostStoryUrlPlaceholder" = "http://";
+"kOr" = "Or";
+"kPostStoryTextPlaceholder" = "Your text post";
+"kErrorEmptyTitle" = "You must enter a title";
+"kErrorEmptyUrlAndText" = "You must enter an url or post text";
+"kErrorUrlAndText" = "You can't have both an url and a post text";
+"kErrorInvalidUrl" = "Please enter a valid url";
