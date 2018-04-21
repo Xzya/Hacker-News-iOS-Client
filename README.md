@@ -39,7 +39,7 @@ Unfortunately, I lost interest in the project, and I don't think I will work on 
 - Post story
 - Reply to post
 
-## Running the project
+## Getting started
 
 ### Requirements 
 
@@ -47,13 +47,23 @@ Unfortunately, I lost interest in the project, and I don't think I will work on 
 - iOS 9+
 - [CocoaPods](https://cocoapods.org/)
 
-### Run
+### Running the project
+
+Install the dependencies
 
 ```bash
 pod install
 ```
 
 Open `HackerNews.xcworkspace`.
+
+## Built with
+
+- [AsyncDisplayKit
+](https://github.com/facebookarchive/AsyncDisplayKit) (now [Texture](https://github.com/texturegroup/texture/)) - Layouts
+- [Alamofire](https://github.com/Alamofire/Alamofire) - Networking
+- [PromiseKit](https://github.com/mxcl/PromiseKit) - JavaScript style promises for easier async operations
+- [PINCache](https://github.com/pinterest/PINCache) - Caching
 
 ## License
 
